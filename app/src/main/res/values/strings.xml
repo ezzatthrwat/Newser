@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Newser</string>
+    <string name="news">News</string>
+    <string name="Chat">Chat</string>
+</resources>
